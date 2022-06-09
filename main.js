@@ -9,9 +9,10 @@ const appVue = new Vue({
     // selezioni l'id in html dove verrà scritto tutto il codice Vue
     el: "#app",
 
-    // dati per Vue
+    // dati chiave per Vue
     data: {
-        // chiavi
+        // chiave di un oggetto
+        message: "Hello Vue"
     },
 
     // funzioni
