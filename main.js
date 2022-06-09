@@ -12,8 +12,8 @@ const appVue = new Vue({
     // dati chiave per Vue
     data: {
         // chiave di un oggetto
-        message: "run faster than a t-rex",
-        photo: "https://picsum.photos/600/600"
+        message: "leave and open your eyes",
+        photo: "https://picsum.photos/600/300"
         /* photo: [
             "https://picsum.photos/200/300",
             "https://picsum.photos/200/300",
